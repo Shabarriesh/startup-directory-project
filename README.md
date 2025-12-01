@@ -130,7 +130,7 @@ npm run start
 
 Deploy to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/shabarrieshs-projects/startup-directory-project)](https://startup-directory-project-fnib07szb-shabarrieshs-projects.vercel.app/)
+[(https://vercel.com/shabarrieshs-projects/startup-directory-project)],[(https://startup-directory-project-fnib07szb-shabarrieshs-projects.vercel.app/)]
 
 ## Performance Optimizations
 
@@ -195,7 +195,7 @@ Deploy to Vercel with one click:
 ### Loom video 
 "Here is the 2–3 minute walkthrough explaining the project structure, features, and the architecture behind it:
 
-👉 ([Paste your Loom video link here after recording](https://www.loom.com/share/eb4d81567a544090b0ef5cde83120152))
+👉 ([https://www.loom.com/share/eb4d81567a544090b0ef5cde83120152](https://www.loom.com/share/eb4d81567a544090b0ef5cde83120152))
 
 📦 Repository
 
