@@ -1,0 +1,22 @@
+# Node / build / environment
+node_modules/
+.next/
+dist/
+out/
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
