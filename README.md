@@ -130,7 +130,7 @@ npm run start
 
 Deploy to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/startup-directory)
+[![Deploy with Vercel](https://vercel.com/shabarrieshs-projects/startup-directory-project)](https://startup-directory-project-fnib07szb-shabarrieshs-projects.vercel.app/)
 
 ## Performance Optimizations
 
@@ -192,6 +192,69 @@ Deploy to Vercel with one click:
 14. "Create dark mode support with next-themes"
 15. "Generate startup data structure"
 
+### Loom video 
+"Here is the 2–3 minute walkthrough explaining the project structure, features, and the architecture behind it:
+
+👉 ([Paste your Loom video link here after recording](https://www.loom.com/share/eb4d81567a544090b0ef5cde83120152))
+
+📦 Repository
+
+GitHub Repository:
+👉 https://github.com/Shabarriesh/startup-directory-project
+
+## Dataset Info (for SDE Assignment Requirements)
+
+This project uses a curated dataset located in:
+
+/data/startups.json
+
+
+The dataset includes ~200 startups, each with:
+
+name, slug, logo
+
+description, tagline
+
+funding amount
+
+sector, categories
+
+founders
+
+stats
+
+related startups
+
+website & social links
+
+The dataset was cleaned, normalized, and structured using small TypeScript utilities inside /scripts.
+
+### AI Prompts Used
+
+Here are a few example prompts used during development:
+
+“Generate a Next.js App Router API route that supports search, sorting, and pagination over a JSON dataset.”
+
+“Fix stale SWR data by restructuring the SWR key and syncing URL updates.”
+
+“Create a responsive Startup card component with fallback images using Tailwind.”
+
+"Write a submission-ready README.md for a Startup Directory assignment."
+
+What I’d Improve With More Time
+
+A favorites system with persistent storage
+
+Admin panel for adding/editing startups
+
+Analytics dashboard for sector trends
+
+Better image hosting/CDN integration
+
+E2E testing with Playwright
+
+Infinite scroll alternative to pagination
+
 ### UI/UX
 16. "Design a sticky filter bar for listings"
 17. "Create breadcrumb navigation component"
@@ -202,14 +265,4 @@ Deploy to Vercel with one click:
 22. "Build mobile-responsive header"
 23. "Create loading states"
 
-## License
 
-MIT
-
-## Author
-
-Built with v0 by Vercel
-
----
-
-For questions or suggestions, please open an issue or contact the development team.
